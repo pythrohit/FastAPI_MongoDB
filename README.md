@@ -30,7 +30,7 @@ This is a small API application built with **FastAPI** and **MongoDB**, providin
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/fastapi-mongodb-api.git
+   git clone https://github.com/pythrohit/FastAPI_MongoDB.git
    cd fastapi-mongodb-api
    ```
 
